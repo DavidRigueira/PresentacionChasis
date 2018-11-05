@@ -74,7 +74,7 @@ La anchura de 600 mm para racks de servidores coincide con el tamaño estándar 
 
 El chasis de los portatiles suele venir definido por el fabricante son poco expandibles y suelen venir definidos por el tamanho de la pantalla en el mismo chasis ya viene integrado el teclado, raton en formato tactil "pad", la pantalla y una bateria para su autonomia sin estar conectado a la corriente electrica.
 
-![Portatil](https://www.dynos.es/img_productos/icecat/15-BS035NS-5.jpg)
+![Portatil](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/09/19/15373701821966.gif)
 
 ## Todo-en-uno (All in One):
 
