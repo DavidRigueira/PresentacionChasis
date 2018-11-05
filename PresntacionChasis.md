@@ -20,15 +20,15 @@ Actualmente la que define en casi su totalidad los componentes seran compatibles
 ## Tipos:
 Los chasis se dividen en distintos tipos segun el tamanho:
 
-+ Barebone
-+ Minitorre
-+ Sobremesa
-+ Mediatorre o Semitorre
-+ Torre
-+ Servidor
-+ Rack
-+ Portatil
-+ Todo-en-uno (All in One)
++ [Barebone](#id1)
++ [Minitorre](#id2)
++ [Semitorre y Torre](#id3)
++ [Servidor](#id4)
++ [Rack](#id5)
++ [Portatil](#id6)
++ [Todo-en-uno (All in One)](#id7)
+
+<div id='id1' />
 
 ## Barebone:
 
@@ -38,11 +38,15 @@ Son los chasis mas reducidos que tenemos en el mercado por lo tanto su expansion
 
 ![Barebone cerrado](https://img.grouponcdn.com/deal/4EBqhAtvR6rCkmcUVZUeGHFoiXLF/4E-1000x600/v1/c700x420.jpg)
 
+<div id='id2' />
+
 ## MiniTorre:
 
 Las minitorres tienen dos bahias de 5,25 y otras dos de 3,5 el tamanho es reducido comparado con una torre con poca capacidad de expansion.
 
 ![MiniTorre](https://www.powerplanetonline.com/cdnassets/mini_torre_l_link_magna_3_0_slim_fuente_500w_01_l.jpg)
+
+<div id='id3' />
 
 ## SemiTorre y Torre:
 
@@ -52,12 +56,16 @@ La diferencia entre las dos es minima solo el tamaño pero en las dos tienen un 
 
 ![Torre](https://ae01.alicdn.com/kf/HTB1XLdddDZRMeJjSspoq6ACOFXa8/Artisan-Torre-soporte-de-chasis-ATX-motherboard-integrado-panel-de-metal-USB3-0.jpg_640x640.jpg)
 
+<div id='id4' />
+
 ## Servidor:
 
 Suelen ser torres mas anchas de lo normal y la estética suele ser inexistente por que vas destinadas a lugares apartados poco transitados por usurios, suele primar el diseño para que el rendimiento y la eficiencia energetica sea lo mejor posible. 
 Tambien suelen tener de una fuente de alimentacion por si falla alguna de ellas, tambien estan conectadas a un sistema de alimentación ininterrumpida (SAI o UPS) que los protege contra picos de tension y caidas de la red electrica.
 
 ![Servidor](https://www.hostdime.com.co/hdimages/png/servidorhdcodedicados.png)
+
+<div id='id5' />
 
 ## Racks:
 
@@ -70,11 +78,15 @@ La anchura de 600 mm para racks de servidores coincide con el tamaño estándar 
 
 ![Rack](https://sites.google.com/site/conponentesrack/_/rsrc/1457664195258/home/banner_LP_42U_SuperRack.jpg)
 
+<div id='id6' />
+
 ## Portatil:
 
 El chasis de los portatiles suele venir definido por el fabricante son poco expandibles y suelen venir definidos por el tamanho de la pantalla en el mismo chasis ya viene integrado el teclado, raton en formato tactil "pad", la pantalla y una bateria para su autonomia sin estar conectado a la corriente electrica.
 
 ![Portatil](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/09/19/15373701821966.gif)
+
+<div id='id7' />
 
 ## Todo-en-uno (All in One):
 
