@@ -6,6 +6,7 @@ Los distitos tipos de chasis del ordenador se diferencia principalmente por el t
 "Chasis")
 
 ## Factor de forma:
+
 Es un estandar del tamaño de los componentes que conforman un ordenador el cual los distintos fabricantes de piezas del ordenador "Procesadores, Placas Base, RAM ...etc" se ponen deacuerdo en sus dimensiones para que puedan acoplarse.
 
 + La forma de la placa base: cuadrada o rectangular.
@@ -17,7 +18,24 @@ Es un estandar del tamaño de los componentes que conforman un ordenador el cual
 
 Actualmente la que define en casi su totalidad los componentes seran compatibles es la **Placa Base**.
 
+## Bahías:
+
+Las bahías del chasis son espacios en el mismo destinado a expandir el mismo existen dos tamanhos estandar la de 5,25-3,5 y 2,5 pulgadas.
+
+La bahía de 5,25 esta destinada al lector del DVD, frontales multifuncion sus dimensiones son (146 mm x 41 mm x 165 mm Ancho, Alto y Profundidad):
+
+![Bahía 5,25](https://silverfenix7.files.wordpress.com/2008/11/cinco-y-cuarto.jpg)
+
+La bahía de 3,25 esta destinada a discos duros HDD sus dimensiones son (102 mm x 26 mm x 147 mm Ancho, Alto y Profundidad):
+
+![Bahía 3,25](https://silverfenix7.files.wordpress.com/2008/11/tres-y-medio.jpg?w=468&h=553)
+
+La bahía de 2,25 esta destinada a discos duros HDD de portatil o SSD sus dimensiones son (70 mm x 9.5 mm x 100 mm, Ancho, Alto y Profundidad):
+
+![Bahía 2,25](https://silverfenix7.files.wordpress.com/2008/11/dos-y-medio2.jpg)
+
 ## Tipos:
+
 Los chasis se dividen en distintos tipos segun el tamanho:
 
 + [Barebone](#id1)
@@ -93,3 +111,10 @@ El chasis de los portatiles suele venir definido por el fabricante son poco expa
 Se integran todos los componentes del ordenador (placa base, procesador, RAM, disco duro, grafica) en la parte trasera del monitor su expansion es muy limitada como la de los portatiles.
 
 ![All in One](https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c05151280.png)
+
+## Modding:
+
+Es la modificacion del chasis de forma no convencional generalmente la modificacion trata la en estetica del mismo.
+
+![Modding Pared](https://puregaming.es/wp-content/uploads/2013/08/modding-pc-0202.jpg)
+![Modding Mesa](http://images.bit-tech.net/content_images/2013/12/bit-tech-modding-update-december-2013/1-1280x1024.jpg)
