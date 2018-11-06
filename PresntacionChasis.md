@@ -5,6 +5,15 @@ Los distitos tipos de chasis del ordenador se diferencia principalmente por el t
 ![Tipos de Chasis](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2016/05/169346-consejos-claves-comprar-chasis-pc.jpg?itok=X4VloUZ6
 "Chasis")
 
+## Indice
+
++ [Factor de Forma](#id8)
++ [Bahías](#id9)
++ [Tipos de Chasis](#id10)
++ [Modding](#id11)
+
+<div id='id8' />
+
 ## Factor de forma:
 
 Es un estandar del tamaño de los componentes que conforman un ordenador el cual los distintos fabricantes de piezas del ordenador "Procesadores, Placas Base, RAM ...etc" se ponen deacuerdo en sus dimensiones para que puedan acoplarse.
@@ -17,6 +26,8 @@ Es un estandar del tamaño de los componentes que conforman un ordenador el cual
 + Las conexiones eléctricas de la fuente de alimentación, es decir, cuántos cables requiere la placa base de la fuente de alimentación, sus voltajes y su función.
 
 Actualmente la que define en casi su totalidad los componentes seran compatibles es la **Placa Base**.
+
+<div id='id9' />
 
 ## Bahías:
 
@@ -34,6 +45,8 @@ La bahía de 2,25 esta destinada a discos duros HDD de portatil o SSD sus dimens
 
 ![Bahía 2,25 HDD](https://silverfenix7.files.wordpress.com/2008/11/dos-y-medio2.jpg)
 ![Bahía 2,25 SSD](https://http2.mlstatic.com/unidad-de-estado-solido-ssd-120gb-quaroni-25-sata-iii-6gbs-D_NQ_NP_611430-MLM27254217507_042018-F.jpg)
+
+<div id='id10' />
 
 ## Tipos:
 
@@ -112,6 +125,8 @@ El chasis de los portatiles suele venir definido por el fabricante son poco expa
 Se integran todos los componentes del ordenador (placa base, procesador, RAM, disco duro, grafica) en la parte trasera del monitor su expansion es muy limitada como la de los portatiles.
 
 ![All in One](https://product-images.www8-hp.com/digmedialib/prodimg/lowres/c05151280.png)
+
+<div id='id11' />
 
 ## Modding:
 
