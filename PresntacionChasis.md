@@ -61,7 +61,7 @@ Son los chasis mas reducidos que tenemos en el mercado por lo tanto su expansion
 
 ## MiniTorre:
 
-Las minitorres tienen dos bahias de 5,25 y otras dos de 3,5 el tamanho es reducido comparado con una torre con poca capacidad de expansion.
+Las minitorres tienen dos bahias de 5,25 y otras dos de 3,5 pulgadas, el tamanho es reducido comparado con una torre con poca capacidad de expansion.
 
 ![MiniTorre](https://www.powerplanetonline.com/cdnassets/mini_torre_l_link_magna_3_0_slim_fuente_500w_01_l.jpg)
 
@@ -69,7 +69,7 @@ Las minitorres tienen dos bahias de 5,25 y otras dos de 3,5 el tamanho es reduci
 
 ## SemiTorre y Torre:
 
-La diferencia entre las dos es minima solo el tamaño pero en las dos tienen un tamaño para albergar gran diferencia de componentes de un ordenador y tener varias expansiones, tambien son compatibles los estandar de tamanho de las placas base que es ATX y tambien fuentes de alimentacion ATX las mas comunes.
+La diferencia entre las dos es minima solo el tamaño pero en las dos tienen un tamaño para albergar gran diferencia de componentes de un ordenador y tener varias expansiones, tambien son compatibles los estandar de tamanho de las placas base que es ATX y tambien fuentes de alimentacion ATX las mas comunes tendria espacio para cuatro bahías de 5,25 y cuatro bahías de 3,5 pulgadas.
 
 ![SemiTorre](https://static.pcbox.com/imagenesprod2/img/norm/high/23226749-112.jpg)
 
