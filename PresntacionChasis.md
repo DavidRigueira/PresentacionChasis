@@ -32,7 +32,8 @@ La bahía de 3,25 esta destinada a discos duros HDD sus dimensiones son (102 mm 
 
 La bahía de 2,25 esta destinada a discos duros HDD de portatil o SSD sus dimensiones son (70 mm x 9.5 mm x 100 mm, Ancho, Alto y Profundidad):
 
-![Bahía 2,25](https://silverfenix7.files.wordpress.com/2008/11/dos-y-medio2.jpg)
+![Bahía 2,25 HDD](https://silverfenix7.files.wordpress.com/2008/11/dos-y-medio2.jpg)
+![Bahía 2,25 SSD](https://http2.mlstatic.com/unidad-de-estado-solido-ssd-120gb-quaroni-25-sata-iii-6gbs-D_NQ_NP_611430-MLM27254217507_042018-F.jpg)
 
 ## Tipos:
 
